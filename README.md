@@ -1,3 +1,5 @@
 # Assignments from CISC 3410
----
-#### Implemented in python.
+
+#### Currently implemented in python.
+
+## TODO: Implement in C++
