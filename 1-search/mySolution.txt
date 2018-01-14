@@ -1,0 +1,4 @@
+START up
+START right up left down down right up right down left left up right down left up up right down left down right up up left down right down left up up
+START up left
+START left left down right right up left left down right down left up right right down left up left up
